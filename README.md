@@ -1,366 +1,231 @@
-# ⚡ KABILAN M
+# ✦ KABILAN M
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=800&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+AI+%2F+FULL-STACK+DEVELOPER;%3E+BUILDING+INTELLIGENT+SYSTEMS;%3E+EXPLORING+GENERATIVE+AI;%3E+DESIGNING+THE+FUTURE+WITH+CODE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+AI+%2F+FULL-STACK+DEVELOPER;%F0%9F%A4%96+BUILDING+INTELLIGENT+SYSTEMS;%F0%9F%8C%8C+EXPLORING+GENERATIVE+AI;%F0%9F%9A%80+TURNING+IDEAS+INTO+REALITY;%E2%9C%A6+CODE+%E2%86%92+CREATE+%E2%86%92+INNOVATE" />
 
-</p>
+<br>
 
-<p align="center">
-
-`[ SYSTEM ONLINE ]`　`[ AI CORE ACTIVE ]`　`[ BUILD MODE ]`
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00FF9C" />
-</p>
-
----
-
-# `01 // SYSTEM_IDENTITY`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                       DEVELOPER PROFILE                     ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  USER        : Kabilan M                                     ║
-║  ROLE        : AI / Full-Stack Developer                     ║
-║  SPECIALTY   : Intelligent Applications                      ║
-║  INTERESTS   : AI • Cloud • Automation • Systems            ║
-║  MODE        : BUILDING                                     ║
-║  STATUS      : ONLINE                                        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-> `SYSTEM MESSAGE:` Turning ideas, algorithms and curiosity into real-world software.
-
----
-
-# `02 // MISSION_CONTROL`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     CURRENT MISSION                          │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [01] ████████████████████  BUILD AI AGENTS                  │
-│  [02] █████████████████░░░  DEVELOP RAG SYSTEMS             │
-│  [03] ███████████████████░  CREATE FULL-STACK APPS          │
-│  [04] ███████████████░░░░░  EXPLORE CLOUD ARCHITECTURE      │
-│  [05] ██████████████░░░░░░  AUTOMATE WITH DEVOPS            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `03 // TECHNOLOGY_MATRIX`
-
-## `AI_CORE`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-```text
-AI AGENTS          → Autonomous intelligent workflows
-GENERATIVE AI      → LLM-powered applications
-RAG                → Retrieval-Augmented Generation
-COMPUTER VISION    → Visual intelligence systems
-NLP                → Natural language processing
-```
-
----
-
-## `FULL_STACK_ENGINE`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,flask,fastapi" />
-</p>
-
-```text
-FRONTEND           → Modern responsive interfaces
-BACKEND            → APIs & application logic
-ARCHITECTURE       → Scalable full-stack systems
-INTEGRATION        → AI-powered web applications
-```
-
----
-
-## `DATA_LAYER`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-```text
-MONGODB            → Document databases
-MYSQL              → Relational systems
-POSTGRESQL         → Advanced data systems
-```
-
----
-
-## `CLOUD_INFRASTRUCTURE`
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux" />
-</p>
-
-```text
-GIT                → Version control
-GITHUB             → Collaboration & deployment
-DOCKER             → Containerization
-AWS                → Cloud infrastructure
-LINUX              → Development environments
-```
-
----
-
-# `04 // PROJECT_DATABASE`
-
-## `PROJECT_01 :: G.E.N.O.S`
-
-```text
-╭──────────────────────────────────────────────────────╮
-│  G.E.N.O.S                                           │
-│  AI PERSONAL ASSISTANT                               │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  A futuristic AI assistant designed to understand   │
-│  commands, automate tasks and interact naturally.   │
-│                                                      │
-│  CORE:                                               │
-│  Python • AI • FastAPI • LLM                         │
-│                                                      │
-│  MODULES:                                            │
-│  Automation • AI Agents • NLP                        │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
-
----
-
-## `PROJECT_02 :: VISUAL_DEFECT_AI`
-
-```text
-╭──────────────────────────────────────────────────────╮
-│  AI VISUAL DEFECT DETECTION                          │
-│  COMPUTER VISION SYSTEM                              │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  AI-powered system designed to detect and classify  │
-│  visual defects using computer vision techniques.   │
-│                                                      │
-│  CORE:                                               │
-│  Python • OpenCV • ML • Flask                        │
-│                                                      │
-│  MODULES:                                            │
-│  Detection • Classification • Vision                │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
-
----
-
-## `PROJECT_03 :: RESUME_AI`
-
-```text
-╭──────────────────────────────────────────────────────╮
-│  AI RESUME SCREENING                                 │
-│  INTELLIGENT RECRUITMENT                             │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  AI-powered platform for analysing resumes and      │
-│  matching candidates with suitable opportunities.  │
-│                                                      │
-│  CORE:                                               │
-│  Python • Flask • NLP • AI                           │
-│                                                      │
-│  MODULES:                                            │
-│  NLP • Matching • Automation                         │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
-
----
-
-## `PROJECT_04 :: TOUCHLESS_CONTROL`
-
-```text
-╭──────────────────────────────────────────────────────╮
-│  TOUCHLESS CONTROL                                   │
-│  GESTURE INTERACTION SYSTEM                          │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  Control computer operations using hand gestures   │
-│  powered by computer vision.                        │
-│                                                      │
-│  CORE:                                               │
-│  Python • OpenCV • MediaPipe                         │
-│                                                      │
-│  MODULES:                                            │
-│  Gesture Detection • Vision • Automation             │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
-
----
-
-# `05 // GITHUB_ANALYTICS`
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kabilansri2008-gif&show_icons=true&hide_border=true&theme=transparent&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabilansri2008-gif&hide_border=true&background=00000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=FFFFFF&dates=888888" />
-
-</p>
-
----
-
-# `06 // CONTRIBUTION_NETWORK`
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kabilansri2008-gif&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" />
-
-</p>
-
----
-
-# `07 // DEVELOPMENT_PROTOCOL`
-
-```text
-                         ┌───────────────┐
-                         │     IDEA      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    EXPLORE    │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    DESIGN     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     BUILD     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     TEST      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     DEBUG     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    DEPLOY     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     LEARN     │
-                         └───────┬───────┘
-                                 │
-                                 └──────────────► LOOP
-```
-
-> **`PHILOSOPHY:`** Build. Break. Understand. Improve. Repeat.
-
----
-
-# `08 // CURRENTLY_LOADING`
-
-```text
-[████████████████████████████████████████] 100%
-
-AI AGENTS              ████████████████████
-RAG                    ███████████████████░
-GENERATIVE AI          ██████████████████░░
-COMPUTER VISION        ████████████████░░░░
-FULL-STACK             ███████████████████░
-CLOUD COMPUTING        ██████████████░░░░░░
-DEVOPS                 █████████████░░░░░░░
-SYSTEM DESIGN          ████████████░░░░░░░░
-```
-
----
-
-# `09 // EXPLORATION_QUEUE`
-
-```text
-> AI Agents
-> Retrieval-Augmented Generation
-> Large Language Models
-> Generative AI
-> Computer Vision
-> Cloud Architecture
-> System Design
-> DevOps
-> Automation
-> Intelligent Systems
-```
-
----
-
-# `10 // SYSTEM_STATUS`
-
-<p align="center">
-
-```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║   ● SYSTEM       : ONLINE                        ║
-║   ● DEVELOPMENT  : ACTIVE                        ║
-║   ● AI CORE      : RUNNING                       ║
-║   ● LEARNING     : CONTINUOUS                    ║
-║   ● BUILD MODE   : ENABLED                       ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
-
-</p>
-
----
-
-# `11 // CONNECT`
-
-<p align="center">
-
-<a href="https://github.com/kabilansri2008-gif">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF9C" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
-</a>
-
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=00FF9C" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=%3E+KEEP+BUILDING;%3E+KEEP+LEARNING;%3E+KEEP+EXPLORING;%3E+THE+SYSTEM+IS+JUST+GETTING+STARTED..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=%5BSYSTEM+ONLINE%5D;%5BAI+CORE+INITIALIZED%5D;%5BBUILD+MODE+ENABLED%5D;%5BREADY+TO+CREATE%5D" />
 
 <br><br>
 
-**⚡ BUILD THE IDEA. CODE THE FUTURE. ⚡**
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D9FF" />
+
+</p>
+
+<p align="center">
+
+`AI`　•　`FULL STACK`　•　`GENERATIVE AI`　•　`CLOUD`　•　`DEVOPS`
+
+</p>
+
+---
+
+# 01 · COMMAND CENTER
+
+<table>
+<tr>
+
+<td width="55%">
+
+### ◈ DEVELOPER NODE
+
+```text id="7e3cb4"
+╭──────────────────────────────────────╮
+│                                      │
+│  > identity.load()                   │
+│                                      │
+│  NAME      : Kabilan M               │
+│  ROLE      : AI / Full-Stack Dev     │
+│  DOMAIN    : Intelligent Systems     │
+│  LOCATION  : The Digital Space       │
+│                                      │
+│  STATUS    : ● ONLINE                │
+│  MODE      : ⚡ BUILDING             │
+│  SIGNAL    : ∞ LEARNING              │
+│                                      │
+╰──────────────────────────────────────╯
+```
+
+</td>
+
+<td width="45%">
+
+### ◇ ACTIVE PROTOCOLS
+
+```text id="cm4y7v"
+[01] AI AGENTS
+     └─ Autonomous systems
+
+[02] RAG
+     └─ Knowledge retrieval
+
+[03] FULL STACK
+     └─ End-to-end products
+
+[04] CLOUD
+     └─ Scalable infrastructure
+
+[05] AUTOMATION
+     └─ Smarter workflows
+```
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=%3E+Analyzing+problems...;%3E+Designing+solutions...;%3E+Writing+code...;%3E+Testing+systems...;%3E+Shipping+ideas..." />
+
+</p>
+
+> **I don't just write code — I build systems, explore ideas, and turn imagination into something people can use.**
+
+---
+
+# 02 · TECHNOLOGY
+
+<p align="center">
+
+### 🤖 AI / MACHINE LEARNING
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+<br><br>
+
+### 🌐 FULL STACK
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,flask,fastapi" />
+
+<br><br>
+
+### 🗄️ DATABASE
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+
+<br><br>
+
+### ☁️ CLOUD / DEVOPS
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux" />
+
+</p>
+
+---
+
+# 03 · PROJECTS
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 G.E.N.O.S
+
+**AI PERSONAL ASSISTANT**
+
+A futuristic AI assistant designed to understand commands, automate tasks and interact naturally with users.
+
+`Python` `AI` `FastAPI` `LLM`
+
+</td>
+
+<td width="50%">
+
+### 👁️ AI VISUAL DEFECT DETECTION
+
+**COMPUTER VISION**
+
+An intelligent system designed to detect and classify visual defects using computer vision and machine learning.
+
+`Python` `OpenCV` `ML` `Flask`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧠 AI RESUME SCREENING
+
+**INTELLIGENT RECRUITMENT**
+
+An AI-powered platform for analysing resumes and matching candidates with suitable opportunities.
+
+`Python` `Flask` `NLP` `AI`
+
+</td>
+
+<td width="50%">
+
+### ✋ TOUCHLESS CONTROL
+
+**GESTURE INTERACTION**
+
+Control computer operations through hand gestures using computer vision.
+
+`Python` `OpenCV` `MediaPipe`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 04 · GITHUB
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kabilansri2008-gif&show_icons=true&hide_border=true&theme=transparent&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kabilansri2008-gif&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=888888" />
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kabilansri2008-gif&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+
+</p>
+
+---
+
+# 05 · CONNECT
+
+<p align="center">
+
+### 🌌 LET'S BUILD SOMETHING GREAT.
+
+<br>
+
+<a href="https://github.com/kabilansri2008-gif">
+<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=%3C+CREATE+%2F%3E;%3C+BUILD+%2F%3E;%3C+LEARN+%2F%3E;%3C+EVOLVE+%2F%3E;%3C+REPEAT+%2F%3E" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00D9FF,100:7C3AED" />
 
 </p>
