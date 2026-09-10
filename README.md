@@ -160,8 +160,19 @@ Control computer operations through hand gestures using computer vision.
 </div>
 
 ---
+# 05 · CONTRIBUTION SNAKE
 
-## 05 · CONNECT
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sethuramansethu008-debug/sethuramansethu008-debug/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+<p align="center"><sub>Snake eats its way through your commit graph — animates automatically once <code>snake.yml</code> (below) is set up. See setup notes at the bottom.</sub></p>
+
+---
+
+## 06 · CONNECT
 
 <div align="center">
 
