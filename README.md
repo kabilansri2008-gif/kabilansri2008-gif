@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1800&pause=500&color=00D9FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+AI+%2F+FULL-STACK+DEVELOPER;%F0%9F%A4%96+BUILDING+INTELLIGENT+SYSTEMS;%F0%9F%8C%8C+EXPLORING+GENERATIVE+AI;%F0%9F%9A%80+TURNING+IDEAS+INTO+REALITY;%E2%9C%A6+CODE+%E2%86%92+CREATE+%E2%86%92+INNOVATE" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,12,30&text=KABILAN%20M&fontColor=00F0FF&fontSize=60&fontAlignY=40&desc=AI%20%2F%20BLOCKCHAIN%20DEVELOPER&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=%5BSYSTEM+ONLINE%5D;%5BAI+CORE+INITIALIZED%5D;%5BBUILD+MODE+ENABLED%5D;%5BREADY+TO+CREATE%5D" alt="Status SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2200&pause=600&color=00F0FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+ARCHITECTING+TRUST+SYSTEMS;%F0%9F%94%90+AI+%2B+BLOCKCHAIN+VERIFICATION;%F0%9F%9B%B0%EF%B8%8F+DETECT+%E2%86%92+VERIFY+%E2%86%92+PROTECT;%F0%9F%92%A0+CODE+IS+THE+NEW+MAGIC" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00D9FF" width="100%" />
+<br>
 
-<sub>`AI`　•　`FULL STACK`　•　`GENERATIVE AI`　•　`CLOUD`　•　`DEVOPS`</sub>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/CORE-AI%20INITIALIZED-B026FF?style=for-the-badge&logo=OpenAI&logoColor=white&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/MODE-BUILDING-FF00E5?style=for-the-badge&logo=hyperskill&logoColor=white&labelColor=0D0221" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:B026FF,100:FF00E5" width="100%" />
 
 </div>
 
 <br>
-
-## 01 · COMMAND CENTER
-
-<table>
-<tr>
-<td width="55%" valign="top">
 
 ### ◈ DEVELOPER NODE
 
