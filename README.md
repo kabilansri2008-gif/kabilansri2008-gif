@@ -160,11 +160,11 @@ Control computer operations through hand gestures using computer vision.
 </div>
 
 ---
-# 05 · CONTRIBUTION SNAKE
+## 05 · CONTRIBUTION SNAKE
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/sethuramansethu008-debug/sethuramansethu008-debug/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/kabilansri2008-gif/kabilansri2008-gif/output/github-contribution-grid-snake-dark.svg?v=1" />
 
 </p>
 
